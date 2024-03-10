@@ -1,6 +1,6 @@
 # SauceDemo Website Login Tests
 
-# Test Scenarios and Test Cases
+## Test Scenarios and Test Cases
 
     @AllEmpty
     Scenario Outline: Empty Username & Empty Password
