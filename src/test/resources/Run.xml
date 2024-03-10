@@ -1,0 +1,8 @@
+<suite name="SauceDemo Project">
+    <parameter name="browser" value="chrome"/>
+    <test name="SauceDemo">
+        <classes>
+            <class name="TestRunners.Runner"/>
+        </classes>
+    </test>
+</suite>
