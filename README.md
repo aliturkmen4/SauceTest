@@ -1,7 +1,7 @@
 # SauceDemo Website Login Tests
 
 # Test Scenarios and Test Cases
-  Feature: SauceDemo Check Test Cases
+
     @AllEmpty
     Scenario Outline: Empty Username & Empty Password
       Given User at home page
